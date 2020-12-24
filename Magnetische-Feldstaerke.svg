@@ -1,0 +1,3640 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 480 480"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="100%"
+   height="100%"
+   sodipodi:docname="magnetfeld.svg">
+  <metadata
+     id="metadata1559">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1557" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1385"
+     id="namedview1555"
+     showgrid="false"
+     inkscape:zoom="3.9333333"
+     inkscape:cx="240"
+     inkscape:cy="240"
+     inkscape:window-x="-3"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="gnuplot_canvas" />
+  <title
+     id="title4">Gnuplot</title>
+  <desc
+     id="desc6">Produced by GNUPLOT 4.6 patchlevel 1 </desc>
+  <g
+     id="gnuplot_canvas">
+    <rect
+       x="0"
+       y="0"
+       width="480"
+       height="480"
+       fill="none"
+       id="rect9" />
+    <defs
+       id="defs11">
+      <circle
+         id="gpDot"
+         r="0.5"
+         stroke-width="0.5" />
+      <path
+         id="gpPt0"
+         stroke-width="0.333"
+         stroke="currentColor"
+         d="M-1,0 h2 M0,-1 v2" />
+      <path
+         id="gpPt1"
+         stroke-width="0.333"
+         stroke="currentColor"
+         d="M-1,-1 L1,1 M1,-1 L-1,1" />
+      <path
+         id="gpPt2"
+         stroke-width="0.333"
+         stroke="currentColor"
+         d="M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1" />
+      <rect
+         id="gpPt3"
+         stroke-width="0.333"
+         stroke="currentColor"
+         x="-1"
+         y="-1"
+         width="2"
+         height="2" />
+      <rect
+         id="gpPt4"
+         stroke-width="0.333"
+         stroke="currentColor"
+         fill="currentColor"
+         x="-1"
+         y="-1"
+         width="2"
+         height="2" />
+      <circle
+         id="gpPt5"
+         stroke-width="0.333"
+         stroke="currentColor"
+         cx="0"
+         cy="0"
+         r="1" />
+      <use
+         xlink:href="#gpPt5"
+         id="gpPt6"
+         fill="currentColor"
+         stroke="none" />
+      <path
+         id="gpPt7"
+         stroke-width="0.333"
+         stroke="currentColor"
+         d="M0,-1.33 L-1.33,0.67 L1.33,0.67 z" />
+      <use
+         xlink:href="#gpPt7"
+         id="gpPt8"
+         fill="currentColor"
+         stroke="none" />
+      <use
+         xlink:href="#gpPt7"
+         id="gpPt9"
+         stroke="currentColor"
+         transform="rotate(180)" />
+      <use
+         xlink:href="#gpPt9"
+         id="gpPt10"
+         fill="currentColor"
+         stroke="none" />
+      <use
+         xlink:href="#gpPt3"
+         id="gpPt11"
+         stroke="currentColor"
+         transform="rotate(45)" />
+      <use
+         xlink:href="#gpPt11"
+         id="gpPt12"
+         fill="currentColor"
+         stroke="none" />
+    </defs>
+    <g
+       style="fill:none; color:white; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+       id="g27" />
+    <g
+       style="fill:none; color:black; stroke:black; stroke-width:2.00; stroke-linecap:butt; stroke-linejoin:miter"
+       id="g37">
+      <path
+         d="M47.7,399.8 L56.0,399.8 M463.4,399.8 L455.1,399.8  h0.01"
+         id="path39" />
+      <g
+         transform="translate(42.2,402.8)"
+         style="stroke:none; fill:rgb(0,0,0); font-family:{}; font-size:10.00pt; text-anchor:end"
+         id="g41">
+        <text
+           id="text43">
+          <tspan
+             id="tspan45">-1</tspan>
+        </text>
+      </g>
+      <path
+         d="M47.7,319.3 L56.0,319.3 M463.4,319.3 L455.1,319.3  h0.01"
+         id="path47" />
+      <g
+         transform="translate(42.2,322.3)"
+         style="stroke:none; fill:rgb(0,0,0); font-family:{}; font-size:10.00pt; text-anchor:end"
+         id="g49">
+        <text
+           id="text51">
+          <tspan
+             id="tspan53">-0.5</tspan>
+        </text>
+      </g>
+      <path
+         d="M47.7,238.9 L56.0,238.9 M463.4,238.9 L455.1,238.9  h0.01"
+         id="path55" />
+      <g
+         transform="translate(42.2,241.9)"
+         style="stroke:none; fill:rgb(0,0,0); font-family:{}; font-size:10.00pt; text-anchor:end"
+         id="g57">
+        <text
+           id="text59">
+          <tspan
+             id="tspan61">0</tspan>
+        </text>
+      </g>
+      <path
+         d="M47.7,158.4 L56.0,158.4 M463.4,158.4 L455.1,158.4  h0.01"
+         id="path63" />
+      <g
+         transform="translate(42.2,161.4)"
+         style="stroke:none; fill:rgb(0,0,0); font-family:{}; font-size:10.00pt; text-anchor:end"
+         id="g65">
+        <text
+           id="text67">
+          <tspan
+             id="tspan69">0.5</tspan>
+        </text>
+      </g>
+      <path
+         d="M47.7,77.9 L56.0,77.9 M463.4,77.9 L455.1,77.9  h0.01"
+         id="path71" />
+      <g
+         transform="translate(42.2,80.9)"
+         style="stroke:none; fill:rgb(0,0,0); font-family:{}; font-size:10.00pt; text-anchor:end"
+         id="g73">
+        <text
+           id="text75">
+          <tspan
+             id="tspan77">1</tspan>
+        </text>
+      </g>
+      <path
+         d="M90.6,441.6 L90.6,433.3 M90.6,36.1 L90.6,44.4  h0.01"
+         id="path79" />
+      <g
+         transform="translate(90.6,456.6)"
+         style="stroke:none; fill:rgb(0,0,0); font-family:{}; font-size:10.00pt; text-anchor:middle"
+         id="g81">
+        <text
+           id="text83">
+          <tspan
+             id="tspan85">-1</tspan>
+        </text>
+      </g>
+      <path
+         d="M173.1,441.6 L173.1,433.3 M173.1,36.1 L173.1,44.4  h0.01"
+         id="path87" />
+      <g
+         transform="translate(173.1,456.6)"
+         style="stroke:none; fill:rgb(0,0,0); font-family:{}; font-size:10.00pt; text-anchor:middle"
+         id="g89">
+        <text
+           id="text91">
+          <tspan
+             id="tspan93">-0.5</tspan>
+        </text>
+      </g>
+      <path
+         d="M255.6,441.6 L255.6,433.3 M255.6,36.1 L255.6,44.4  h0.01"
+         id="path95" />
+      <g
+         transform="translate(255.6,456.6)"
+         style="stroke:none; fill:rgb(0,0,0); font-family:{}; font-size:10.00pt; text-anchor:middle"
+         id="g97">
+        <text
+           id="text99">
+          <tspan
+             id="tspan101">0</tspan>
+        </text>
+      </g>
+      <path
+         d="M338.0,441.6 L338.0,433.3 M338.0,36.1 L338.0,44.4  h0.01"
+         id="path103" />
+      <g
+         transform="translate(338.0,456.6)"
+         style="stroke:none; fill:rgb(0,0,0); font-family:{}; font-size:10.00pt; text-anchor:middle"
+         id="g105">
+        <text
+           id="text107">
+          <tspan
+             id="tspan109">0.5</tspan>
+        </text>
+      </g>
+      <path
+         d="M420.5,441.6 L420.5,433.3 M420.5,36.1 L420.5,44.4  h0.01"
+         id="path111" />
+      <g
+         transform="translate(420.5,456.6)"
+         style="stroke:none; fill:rgb(0,0,0); font-family:{}; font-size:10.00pt; text-anchor:middle"
+         id="g113">
+        <text
+           id="text115">
+          <tspan
+             id="tspan117">1</tspan>
+        </text>
+      </g>
+      <path
+         d="M47.7,36.1 L47.7,441.6 L463.4,441.6 L463.4,36.1 L47.7,36.1 Z  h0.01"
+         id="path119" />
+      <g
+         transform="translate(11.7,238.9) rotate(-90)"
+         style="stroke:none; fill:rgb(0,0,0); font-family:{}; font-size:10.00pt; text-anchor:middle"
+         id="g121">
+        <text
+           id="text123">
+          <tspan
+             id="tspan125">y</tspan>
+        </text>
+      </g>
+      <g
+         transform="translate(255.5,474.6)"
+         style="stroke:none; fill:rgb(0,0,0); font-family:{}; font-size:10.00pt; text-anchor:middle"
+         id="g127">
+        <text
+           id="text129">
+          <tspan
+             id="tspan131">x</tspan>
+        </text>
+      </g>
+      <g
+         transform="translate(255.5,21.1)"
+         style="stroke:none; fill:black; font-family:{}; font-size:10.00pt; text-anchor:middle"
+         id="g133">
+        <text
+           id="text135">
+          <tspan
+             id="tspan137">Magnetische Feldstärke eines geraden stromdurchflossenen Leiters</tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_1a">
+      <title
+         id="title140">gnuplot_plot_1a</title>
+      <g
+         style="fill:none; color:white; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g142" />
+      <g
+         style="fill:none; color:red; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g144">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use146" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use148" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use150" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use152" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use154" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use156" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use158" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use160" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use162" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use164" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use166" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use168" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use170" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use172" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use174" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use176" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use178" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use180" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use182" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use184" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use186" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use188" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use190" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use192" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(57.6,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use194" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_2a">
+      <title
+         id="title197">gnuplot_plot_2a</title>
+      <g
+         style="fill:none; color:green; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g199">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use201" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use203" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use205" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use207" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use209" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use211" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use213" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use215" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use217" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use219" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use221" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use223" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use225" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use227" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use229" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use231" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use233" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use235" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use237" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use239" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use241" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use243" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use245" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use247" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(74.1,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use249" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_3a">
+      <title
+         id="title252">gnuplot_plot_3a</title>
+      <g
+         style="fill:none; color:blue; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g254">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use256" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use258" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use260" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use262" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use264" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use266" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use268" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use270" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use272" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use274" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use276" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use278" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use280" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use282" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use284" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use286" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use288" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use290" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use292" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use294" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use296" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use298" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use300" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use302" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(90.6,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use304" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_4a">
+      <title
+         id="title307">gnuplot_plot_4a</title>
+      <g
+         style="fill:none; color:cyan; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g309">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use311" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use313" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use315" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use317" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use319" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use321" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use323" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use325" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use327" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use329" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use331" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use333" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use335" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use337" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use339" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use341" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use343" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use345" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use347" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use349" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use351" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use353" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use355" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use357" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(107.1,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use359" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_5a">
+      <title
+         id="title362">gnuplot_plot_5a</title>
+      <g
+         style="fill:none; color:#157545; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g364">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use366" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use368" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use370" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use372" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use374" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use376" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use378" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use380" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use382" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use384" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use386" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use388" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use390" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use392" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use394" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use396" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use398" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use400" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use402" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use404" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use406" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use408" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use410" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use412" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(123.6,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use414" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_6a">
+      <title
+         id="title417">gnuplot_plot_6a</title>
+      <g
+         style="fill:none; color:#000094; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g419">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use421" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use423" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use425" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use427" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use429" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use431" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use433" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use435" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use437" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use439" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use441" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use443" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use445" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use447" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use449" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use451" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use453" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use455" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use457" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use459" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use461" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use463" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use465" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use467" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(140.1,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use469" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_7a">
+      <title
+         id="title472">gnuplot_plot_7a</title>
+      <g
+         style="fill:none; color:#FF9900; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g474">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use476" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use478" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use480" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use482" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use484" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use486" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use488" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use490" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use492" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use494" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use496" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use498" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use500" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use502" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use504" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use506" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use508" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use510" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use512" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use514" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use516" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use518" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use520" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use522" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(156.6,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use524" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_8a">
+      <title
+         id="title527">gnuplot_plot_8a</title>
+      <g
+         style="fill:none; color:#0099A1; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g529">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use531" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use533" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use535" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use537" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use539" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use541" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use543" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use545" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use547" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use549" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use551" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use553" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use555" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use557" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use559" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use561" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use563" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use565" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use567" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use569" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use571" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use573" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use575" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use577" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(173.1,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use579" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_9a">
+      <title
+         id="title582">gnuplot_plot_9a</title>
+      <g
+         style="fill:none; color:#D6D645; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g584">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use586" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use588" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use590" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use592" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use594" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use596" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use598" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use600" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use602" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use604" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use606" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use608" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use610" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use612" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use614" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use616" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use618" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use620" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use622" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use624" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use626" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use628" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use630" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use632" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(189.6,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use634" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_10a">
+      <title
+         id="title637">gnuplot_plot_10a</title>
+      <g
+         style="fill:none; color:#A391FF; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g639">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use641" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use643" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use645" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use647" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use649" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use651" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use653" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use655" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use657" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use659" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use661" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use663" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use665" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use667" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use669" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use671" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use673" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use675" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use677" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use679" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use681" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use683" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use685" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use687" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(206.1,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use689" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_11a">
+      <title
+         id="title692">gnuplot_plot_11a</title>
+      <g
+         style="fill:none; color:#FFCC00; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g694">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use696" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use698" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use700" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use702" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use704" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use706" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use708" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use710" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use712" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use714" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use716" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use724" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use726" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use728" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use730" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use732" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use734" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use736" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use738" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use740" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use742" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(222.6,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use744" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_12a">
+      <title
+         id="title747">gnuplot_plot_12a</title>
+      <g
+         style="fill:none; color:#D60078; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g749">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use751" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use753" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use755" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use757" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use759" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use761" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use763" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use765" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use767" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use769" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use781" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use783" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use785" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use787" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use789" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use791" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use793" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use795" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use797" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(239.1,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use799" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_13a">
+      <title
+         id="title802">gnuplot_plot_13a</title>
+      <g
+         style="fill:none; color:#ABD600; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g804">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use806" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use808" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use810" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use812" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use814" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use816" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use818" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use820" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use822" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use824" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use836" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use838" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use840" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use842" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use844" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use846" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use848" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use850" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use852" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(255.6,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use854" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_14a">
+      <title
+         id="title857">gnuplot_plot_14a</title>
+      <g
+         style="fill:none; color:red; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g859">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use861" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use863" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use865" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use867" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use869" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use871" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use873" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use875" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use877" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use879" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use891" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use893" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use895" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use897" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use899" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use901" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use903" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use905" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use907" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(272.0,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use909" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_15a">
+      <title
+         id="title912">gnuplot_plot_15a</title>
+      <g
+         style="fill:none; color:green; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g914">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use916" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use918" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use920" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use922" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use924" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use926" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use928" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use930" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use932" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use934" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use936" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use944" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use946" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use948" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use950" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use952" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use954" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use956" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use958" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use960" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use962" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(288.5,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use964" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_16a">
+      <title
+         id="title967">gnuplot_plot_16a</title>
+      <g
+         style="fill:none; color:blue; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g969">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use971" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use973" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use975" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use977" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use979" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use981" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use983" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use985" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use987" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use989" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use991" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use993" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use995" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use997" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use999" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1001" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1003" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1005" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1007" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1009" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1011" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1013" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1015" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1017" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(305.0,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1019" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_17a">
+      <title
+         id="title1022">gnuplot_plot_17a</title>
+      <g
+         style="fill:none; color:cyan; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g1024">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1026" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1028" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1030" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1032" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1034" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1036" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1038" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1040" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1042" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1044" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1046" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1048" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1050" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1052" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1054" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1056" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1058" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1060" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1062" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1064" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1066" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1068" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1070" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1072" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(321.5,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1074" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_18a">
+      <title
+         id="title1077">gnuplot_plot_18a</title>
+      <g
+         style="fill:none; color:#157545; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g1079">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1081" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1083" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1085" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1087" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1089" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1091" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1093" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1095" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1097" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1099" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1101" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1103" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1105" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1107" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1109" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1111" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1113" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1115" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1117" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1119" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1121" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1123" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1125" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1127" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(338.0,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1129" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_19a">
+      <title
+         id="title1132">gnuplot_plot_19a</title>
+      <g
+         style="fill:none; color:#000094; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g1134">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1136" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1138" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1140" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1142" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1144" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1146" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1148" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1150" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1152" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1154" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1156" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1158" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1160" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1162" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1164" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1166" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1168" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1170" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1172" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1174" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1176" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1178" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1180" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1182" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(354.5,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1184" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_20a">
+      <title
+         id="title1187">gnuplot_plot_20a</title>
+      <g
+         style="fill:none; color:#FF9900; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g1189">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1191" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1193" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1195" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1197" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1199" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1201" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1203" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1205" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1207" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1209" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1211" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1213" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1215" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1217" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1219" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1221" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1223" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1225" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1227" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1229" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1231" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1233" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1235" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1237" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(371.0,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1239" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_21a">
+      <title
+         id="title1242">gnuplot_plot_21a</title>
+      <g
+         style="fill:none; color:#0099A1; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g1244">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1246" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1248" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1250" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1252" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1254" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1256" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1258" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1260" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1262" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1264" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1266" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1268" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1270" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1272" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1274" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1276" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1278" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1280" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1282" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1284" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1286" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1288" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1290" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1292" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(387.5,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1294" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_22a">
+      <title
+         id="title1297">gnuplot_plot_22a</title>
+      <g
+         style="fill:none; color:#D6D645; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g1299">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1301" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1303" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1305" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1307" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1309" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1311" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1313" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1315" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1317" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1319" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1321" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1323" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1325" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1327" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1329" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1331" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1333" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1335" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1337" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1339" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1341" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1343" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1345" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1347" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(404.0,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1349" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_23a">
+      <title
+         id="title1352">gnuplot_plot_23a</title>
+      <g
+         style="fill:none; color:#A391FF; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g1354">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1356" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1358" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1360" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1362" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1364" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1366" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1368" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1370" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1372" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1374" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1376" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1378" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1380" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1382" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1384" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1386" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1388" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1390" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1392" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1394" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1396" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1398" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1400" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1402" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(420.5,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1404" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_24a">
+      <title
+         id="title1407">gnuplot_plot_24a</title>
+      <g
+         style="fill:none; color:#FFCC00; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g1409">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1411" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1413" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1415" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1417" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1419" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1421" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1423" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1425" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1427" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1429" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1431" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1433" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1435" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1437" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1439" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1441" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1443" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1445" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1447" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1449" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1451" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1453" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1455" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1457" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(437.0,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1459" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_25a">
+      <title
+         id="title1462">gnuplot_plot_25a</title>
+      <g
+         style="fill:none; color:#D60078; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g1464">
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,45.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1466" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,61.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1468" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,77.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1470" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,94.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1472" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,110.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1474" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,126.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1476" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,142.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1478" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,158.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1480" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,174.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1482" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,190.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1484" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,206.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1486" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,222.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1488" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,238.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1490" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,254.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1492" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,271.0) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1494" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,287.1) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1496" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,303.2) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1498" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,319.3) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1500" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,335.4) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1502" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,351.5) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1504" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,367.6) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1506" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,383.7) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1508" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,399.8) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1510" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,415.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1512" />
+        <use
+           xlink:href="#gpPt1"
+           transform="translate(453.5,431.9) scale(2.00)"
+           color="rgb(  0,   0,   0)"
+           id="use1514" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_26a">
+      <title
+         id="title1517">gnuplot_plot_26a</title>
+      <g
+         style="fill:none; color:white; stroke:rgb(  0,   0,   0); stroke-width:1.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g1519" />
+      <g
+         style="fill:none; color:red; stroke:currentColor; stroke-width:1.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g1521">
+        <path
+           stroke="rgb(  0,   0, 255)"
+           d="M57.6,45.8 L61.0,42.5 M57.6,61.8 L60.9,58.3 M57.6,77.9 L60.9,74.1 M57.6,94.0 L60.8,89.8    M57.6,110.1 L60.7,105.6 M57.6,126.2 L60.5,121.3 M57.6,142.3 L60.3,137.1 M57.6,158.4 L60.0,152.8    M57.6,174.5 L59.6,168.6 M57.6,190.6 L59.2,184.4 M57.6,206.7 L58.7,200.3 M57.6,222.8 L58.2,216.3    M57.6,238.9 L57.6,232.3 M57.6,254.9 L57.0,248.4 M57.6,271.0 L56.5,264.7 M57.6,287.1 L56.0,281.0    M57.6,303.2 L55.6,297.3 M57.6,319.3 L55.2,313.7 M57.6,335.4 L54.9,330.2 M57.6,351.5 L54.7,346.6    M57.6,367.6 L54.5,363.0 M57.6,383.7 L54.4,379.5 M57.6,399.8 L54.3,395.9 M57.6,415.9 L54.3,412.3    M57.6,431.9 L54.2,428.7 M74.1,45.8 L77.7,42.5 M74.1,61.8 L77.8,58.3 M74.1,77.9 L77.7,74.0    M74.1,94.0 L77.7,89.7 M74.1,110.1 L77.6,105.4 M74.1,126.2 L77.4,121.1 M74.1,142.3 L77.2,136.8    M74.1,158.4 L76.9,152.5 M74.1,174.5 L76.4,168.2 M74.1,190.6 L76.0,183.9 M74.1,206.7 L75.4,199.7    M74.1,222.8 L74.8,215.7 M74.1,238.9 L74.1,231.7 M74.1,254.9 L73.4,247.9 M74.1,271.0 L72.8,264.1    M74.1,287.1 L72.2,280.5 M74.1,303.2 L71.7,296.9 M74.1,319.3 L71.3,313.4 M74.1,335.4 L71.0,329.9    M74.1,351.5 L70.8,346.4 M74.1,367.6 L70.6,362.9 M74.1,383.7 L70.5,379.4 M74.1,399.8 L70.4,395.8    M74.1,415.9 L70.4,412.3 M74.1,431.9 L70.4,428.7 M90.6,45.8 L94.6,42.5 M90.6,61.8 L94.6,58.3    M90.6,77.9 L94.6,74.0 M90.6,94.0 L94.6,89.7 M90.6,110.1 L94.5,105.3 M90.6,126.2 L94.4,120.9    M90.6,142.3 L94.1,136.5 M90.6,158.4 L93.8,152.1 M90.6,174.5 L93.4,167.7 M90.6,190.6 L92.8,183.4    M90.6,206.7 L92.1,199.1 M90.6,222.8 L91.4,215.0 M90.6,238.9 L90.6,231.0 M90.6,254.9 L89.8,247.2    M90.6,271.0 L89.0,263.5 M90.6,287.1 L88.4,279.9 M90.6,303.2 L87.8,296.4 M90.6,319.3 L87.4,313.0    M90.6,335.4 L87.0,329.6 M90.6,351.5 L86.8,346.2 M90.6,367.6 L86.7,362.8 M90.6,383.7 L86.6,379.3    M90.6,399.8 L86.6,395.8 M90.6,415.9 L86.6,412.3 M90.6,431.9 L86.6,428.7 M107.1,45.8 L111.4,42.6    M107.1,61.8 L111.5,58.3 M107.1,77.9 L111.5,74.0 M107.1,94.0 L111.6,89.7 M107.1,110.1 L111.5,105.2    M107.1,126.2 L111.4,120.8 M107.1,142.3 L111.2,136.3 M107.1,158.4 L110.9,151.7 M107.1,174.5 L110.4,167.2    M107.1,190.6 L109.8,182.7 M107.1,206.7 L109.0,198.3 M107.1,222.8 L108.1,214.1 M107.1,238.9 L107.1,230.1    M107.1,254.9 L106.1,246.3 M107.1,271.0 L105.2,262.7 M107.1,287.1 L104.4,279.3 M107.1,303.2 L103.8,295.9    M107.1,319.3 L103.3,312.6 M107.1,335.4 L103.0,329.3 M107.1,351.5 L102.7,346.0 M107.1,367.6 L102.6,362.7    M107.1,383.7 L102.6,379.3 M107.1,399.8 L102.6,395.9 M107.1,415.9 L102.7,412.3 M107.1,431.9 L102.8,428.8    M123.6,45.8 L128.2,42.7 M123.6,61.8 L128.4,58.4 M123.6,77.9 L128.5,74.1 M123.6,94.0 L128.6,89.7    M123.6,110.1 L128.6,105.2 M123.6,126.2 L128.6,120.6 M123.6,142.3 L128.4,136.0 M123.6,158.4 L128.1,151.3    M123.6,174.5 L127.6,166.6 M123.6,190.6 L126.9,182.0 M123.6,206.7 L126.0,197.4 M123.6,222.8 L124.8,213.1    M123.6,238.9 L123.6,229.0 M123.6,254.9 L122.3,245.3 M123.6,271.0 L121.2,261.8 M123.6,287.1 L120.3,278.5    M123.6,303.2 L119.6,295.4 M123.6,319.3 L119.1,312.2 M123.6,335.4 L118.7,329.1 M123.6,351.5 L118.6,345.9    M123.6,367.6 L118.5,362.7 M123.6,383.7 L118.6,379.3 M123.6,399.8 L118.7,395.9 M123.6,415.9 L118.8,412.5    M123.6,431.9 L118.9,428.9 M140.1,45.8 L145.1,42.9 M140.1,61.8 L145.3,58.6 M140.1,77.9 L145.5,74.2    M140.1,94.0 L145.7,89.8 M140.1,110.1 L145.8,105.2 M140.1,126.2 L145.8,120.6 M140.1,142.3 L145.8,135.8    M140.1,158.4 L145.5,151.0 M140.1,174.5 L145.0,166.0 M140.1,190.6 L144.2,181.1 M140.1,206.7 L143.1,196.3    M140.1,222.8 L141.7,211.7 M140.1,238.9 L140.1,227.6 M140.1,254.9 L138.5,243.9 M140.1,271.0 L137.0,260.6    M140.1,287.1 L135.9,277.6 M140.1,303.2 L135.1,294.7 M140.1,319.3 L134.6,311.9 M140.1,335.4 L134.4,328.9    M140.1,351.5 L134.3,345.9 M140.1,367.6 L134.4,362.7 M140.1,383.7 L134.5,379.4 M140.1,399.8 L134.7,396.1    M140.1,415.9 L134.9,412.6 M140.1,431.9 L135.1,429.1 M156.6,45.8 L161.9,43.1 M156.6,61.8 L162.2,58.8    M156.6,77.9 L162.5,74.5 M156.6,94.0 L162.8,90.0 M156.6,110.1 L163.0,105.4 M156.6,126.2 L163.2,120.7    M156.6,142.3 L163.3,135.7 M156.6,158.4 L163.2,150.7 M156.6,174.5 L162.8,165.4 M156.6,190.6 L161.9,180.1    M156.6,206.7 L160.6,194.9 M156.6,222.8 L158.8,210.0 M156.6,238.9 L156.6,225.7 M156.6,254.9 L154.4,242.2    M156.6,271.0 L152.5,259.2 M156.6,287.1 L151.2,276.6 M156.6,303.2 L150.4,294.1 M156.6,319.3 L150.0,311.6    M156.6,335.4 L149.9,328.8 M156.6,351.5 L149.9,345.9 M156.6,367.6 L150.1,362.9 M156.6,383.7 L150.4,379.6    M156.6,399.8 L150.6,396.3 M156.6,415.9 L150.9,412.8 M156.6,431.9 L151.2,429.3 M173.1,45.8 L178.8,43.4    M173.1,61.8 L179.1,59.2 M173.1,77.9 L179.5,74.8 M173.1,94.0 L179.9,90.3 M173.1,110.1 L180.3,105.7    M173.1,126.2 L180.7,120.9 M173.1,142.3 L181.0,135.9 M173.1,158.4 L181.1,150.5 M173.1,174.5 L180.9,164.9    M173.1,190.6 L180.2,179.0 M173.1,206.7 L178.6,193.1 M173.1,222.8 L176.2,207.6 M173.1,238.9 L173.1,223.1    M173.1,254.9 L170.0,239.8 M173.1,271.0 L167.5,257.5 M173.1,287.1 L166.0,275.6 M173.1,303.2 L165.2,293.6    M173.1,319.3 L165.0,311.4 M173.1,335.4 L165.1,329.0 M173.1,351.5 L165.4,346.2 M173.1,367.6 L165.8,363.2    M173.1,383.7 L166.2,380.0 M173.1,399.8 L166.6,396.6 M173.1,415.9 L167.0,413.2 M173.1,431.9 L167.3,429.6    M189.6,45.8 L195.6,43.8 M189.6,61.8 L196.0,59.5 M189.6,77.9 L196.5,75.2 M189.6,94.0 L197.0,90.8    M189.6,110.1 L197.6,106.2 M189.6,126.2 L198.2,121.4 M189.6,142.3 L198.9,136.3 M189.6,158.4 L199.4,150.7    M189.6,174.5 L199.6,164.7 M189.6,190.6 L199.2,178.0 M189.6,206.7 L197.6,190.9 M189.6,222.8 L194.3,204.3    M189.6,238.9 L189.6,219.2 M189.6,254.9 L184.8,236.4 M189.6,271.0 L181.5,255.3 M189.6,287.1 L179.9,274.5    M189.6,303.2 L179.5,293.4 M189.6,319.3 L179.7,311.6 M189.6,335.4 L180.3,329.3 M189.6,351.5 L180.9,346.6    M189.6,367.6 L181.5,363.6 M189.6,383.7 L182.1,380.4 M189.6,399.8 L182.6,397.1 M189.6,415.9 L183.1,413.6    M189.6,431.9 L183.5,430.0 M206.1,45.8 L212.4,44.2 M206.1,61.8 L212.9,60.0 M206.1,77.9 L213.5,75.8    M206.1,94.0 L214.1,91.4 M206.1,110.1 L214.9,106.9 M206.1,126.2 L215.8,122.1 M206.1,142.3 L216.8,137.1    M206.1,158.4 L217.9,151.5 M206.1,174.5 L219.0,165.0 M206.1,190.6 L219.5,177.5 M206.1,206.7 L218.5,188.5    M206.1,222.8 L214.1,199.2 M206.1,238.9 L206.1,212.6 M206.1,254.9 L198.0,231.3 M206.1,271.0 L193.7,252.9    M206.1,287.1 L192.6,274.0 M206.1,303.2 L193.2,293.8 M206.1,319.3 L194.2,312.4 M206.1,335.4 L195.3,330.2    M206.1,351.5 L196.3,347.4 M206.1,367.6 L197.2,364.3 M206.1,383.7 L198.0,381.0 M206.1,399.8 L198.7,397.6    M206.1,415.9 L199.2,414.0 M206.1,431.9 L199.7,430.4 M222.6,45.8 L229.1,44.7 M222.6,61.8 L229.7,60.6    M222.6,77.9 L230.3,76.4 M222.6,94.0 L231.1,92.2 M222.6,110.1 L232.0,107.8 M222.6,126.2 L233.2,123.2    M222.6,142.3 L234.7,138.4  h0.01"
+           id="path1523" />
+        <path
+           stroke="rgb(  0,   0, 255)"
+           d="M222.6,158.4 L236.5,153.0 M222.6,174.5 L238.7,166.6 M222.6,190.6 L241.2,178.5 M222.6,206.7 L242.7,187.0    M222.6,222.8 M222.6,238.9 M222.6,254.9 M222.6,271.0 L202.4,251.4 M222.6,287.1 L204.0,275.0 M222.6,303.2    L206.4,295.4 M222.6,319.3 L208.7,313.9 M222.6,335.4 L210.5,331.5 M222.6,351.5 L211.9,348.5 M222.6,367.6    L213.1,365.3 M222.6,383.7 L214.0,381.8 M222.6,399.8 L214.8,398.3 M222.6,415.9 L215.5,414.6 M222.6,431.9    L216.0,430.9 M239.1,45.8 L245.7,45.2 M239.1,61.8 L246.3,61.2 M239.1,77.9 L247.0,77.2 M239.1,94.0    L247.9,93.1 M239.1,110.1 L249.0,108.9 M239.1,126.2 L250.3,124.6 M239.1,142.3 L252.1,140.2 M239.1,158.4    L254.6,155.4 M239.1,174.5 L258.0,169.9 M239.1,190.6 L263.2,182.7 M239.1,206.7 M239.1,222.8 M239.1,238.9    M239.1,254.9 M239.1,271.0 M239.1,287.1 L214.9,279.3 M239.1,303.2 L220.1,298.6 M239.1,319.3 L223.5,316.3    M239.1,335.4 L226.0,333.3 M239.1,351.5 L227.8,349.9 M239.1,367.6 L229.1,366.4 M239.1,383.7 L230.2,382.7    M239.1,399.8 L231.1,399.0 M239.1,415.9 L231.8,415.2 M239.1,431.9 L232.4,431.4 M255.6,45.8 L262.3,45.8    M255.6,61.8 L262.9,61.8 M255.6,77.9 L263.6,77.9 M255.6,94.0 L264.5,94.0 M255.6,110.1 L265.6,110.1    M255.6,126.2 L267.1,126.2 M255.6,142.3 L269.0,142.3 M255.6,158.4 L271.7,158.4 M255.6,174.5 L275.7,174.5    M255.6,190.6 L282.4,190.6 M255.6,206.7 M255.6,222.8 M255.6,238.9 M255.6,254.9 M255.6,271.0 M255.6,287.1    L228.7,287.1 M255.6,303.2 L235.4,303.2 M255.6,319.3 L239.4,319.3 M255.6,335.4 L242.1,335.4 M255.6,351.5    L244.0,351.5 M255.6,367.6 L245.5,367.6 M255.6,383.7 L246.6,383.7 M255.6,399.8 L247.5,399.8 M255.6,415.9    L248.2,415.9 M255.6,431.9 L248.8,431.9 M272.0,45.8 L278.7,46.3 M272.0,61.8 L279.3,62.5 M272.0,77.9    L280.0,78.7 M272.0,94.0 L280.9,95.0 M272.0,110.1 L282.0,111.3 M272.0,126.2 L283.3,127.8 M272.0,142.3    L285.1,144.4 M272.0,158.4 L287.6,161.4 M272.0,174.5 L291.0,179.1 M272.0,190.6 L296.2,198.4 M272.0,206.7    M272.0,222.8 M272.0,238.9 M272.0,254.9 M272.0,271.0 M272.0,287.1 L247.9,295.0 M272.0,303.2 L253.1,307.8    M272.0,319.3 L256.5,322.3 M272.0,335.4 L259.0,337.5 M272.0,351.5 L260.8,353.1 M272.0,367.6 L262.1,368.8    M272.0,383.7 L263.2,384.6 M272.0,399.8 L264.1,400.5 M272.0,415.9 L264.8,416.5 M272.0,431.9 L265.4,432.5    M288.5,45.8 L295.1,46.8 M288.5,61.8 L295.6,63.1 M288.5,77.9 L296.3,79.4 M288.5,94.0 L297.1,95.9    M288.5,110.1 L298.0,112.4 M288.5,126.2 L299.2,129.2 M288.5,142.3 L300.6,146.2 M288.5,158.4 L302.4,163.8    M288.5,174.5 L304.7,182.3 M288.5,190.6 L307.1,202.7 M288.5,206.7 L308.7,226.3 M288.5,222.8 M288.5,238.9    M288.5,254.9 M288.5,271.0 L268.4,290.7 M288.5,287.1 L269.9,299.2 M288.5,303.2 L272.4,311.1 M288.5,319.3    L274.6,324.7 M288.5,335.4 L276.4,339.3 M288.5,351.5 L277.9,354.5 M288.5,367.6 L279.1,369.9 M288.5,383.7    L280.0,385.5 M288.5,399.8 L280.8,401.3 M288.5,415.9 L281.4,417.1 M288.5,431.9 L282.0,433.0 M305.0,45.8    L311.4,47.3 M305.0,61.8 L311.9,63.7 M305.0,77.9 L312.4,80.1 M305.0,94.0 L313.1,96.7 M305.0,110.1    L313.9,113.4 M305.0,126.2 L314.8,130.3 M305.0,142.3 L315.8,147.5 M305.0,158.4 L316.9,165.3 M305.0,174.5    L317.9,183.9 M305.0,190.6 L318.5,203.7 M305.0,206.7 L317.4,224.8 M305.0,222.8 L313.1,246.4 M305.0,238.9    L305.0,265.1 M305.0,254.9 L297.0,278.5 M305.0,271.0 L292.6,289.2 M305.0,287.1 L291.6,300.2 M305.0,303.2    L292.1,312.7 M305.0,319.3 L293.2,326.2 M305.0,335.4 L294.3,340.6 M305.0,351.5 L295.3,355.6 M305.0,367.6    L296.2,370.8 M305.0,383.7 L297.0,386.3 M305.0,399.8 L297.6,401.9 M305.0,415.9 L298.2,417.7 M305.0,431.9    L298.7,433.5 M321.5,45.8 L327.6,47.7 M321.5,61.8 L328.0,64.1 M321.5,77.9 L328.5,80.6 M321.5,94.0    L329.0,97.3 M321.5,110.1 L329.6,114.1 M321.5,126.2 L330.2,131.1 M321.5,142.3 L330.8,148.4 M321.5,158.4    L331.4,166.1 M321.5,174.5 L331.6,184.3 M321.5,190.6 L331.2,203.2 M321.5,206.7 L329.6,222.4 M321.5,222.8    L326.3,241.3 M321.5,238.9 L321.5,258.5 M321.5,254.9 L316.8,273.4 M321.5,271.0 L313.5,286.8 M321.5,287.1    L311.9,299.7 M321.5,303.2 L311.5,313.0 M321.5,319.3 L311.7,327.0 M321.5,335.4 L312.2,341.4 M321.5,351.5    L312.9,356.3 M321.5,367.6 L313.5,371.5 M321.5,383.7 L314.1,386.9 M321.5,399.8 L314.6,402.5 M321.5,415.9    L315.1,418.2 M321.5,431.9 L315.5,433.9 M338.0,45.8 L343.8,48.1 M338.0,61.8 L344.1,64.5 M338.0,77.9    L344.5,81.1 M338.0,94.0 L344.9,97.7 M338.0,110.1 L345.3,114.5 M338.0,126.2 L345.7,131.5 M338.0,142.3    L346.0,148.7 M338.0,158.4 L346.1,166.3 M338.0,174.5 L345.9,184.1 M338.0,190.6 L345.1,202.1 M338.0,206.7    L343.6,220.2 M338.0,222.8 L341.1,237.9 M338.0,238.9 L338.0,254.6 M338.0,254.9 L334.9,270.1 M338.0,271.0    L332.5,284.6 M338.0,287.1 L330.9,298.7 M338.0,303.2 L330.2,312.8 M338.0,319.3 L330.0,327.2 M338.0,335.4    L330.1,341.8 M338.0,351.5 L330.4,356.8 M338.0,367.6 L330.8,372.0 M338.0,383.7 L331.2,387.4 M338.0,399.8    L331.6,402.9 M338.0,415.9 L332.0,418.5 M338.0,431.9 L332.3,434.3 M354.5,45.8 L359.9,48.4 M354.5,61.8    L360.2,64.9 M354.5,77.9 L360.5,81.4 M354.5,94.0 L360.7,98.1 M354.5,110.1 L361.0,114.8 M354.5,126.2    L361.2,131.8 M354.5,142.3 L361.2,148.9 M354.5,158.4 L361.1,166.1 M354.5,174.5 L360.7,183.6 M354.5,190.6    L359.9,201.1 M354.5,206.7 L358.6,218.5 M354.5,222.8 L356.7,235.5 M354.5,238.9 L354.5,252.0 M354.5,254.9    L352.3,267.7 M354.5,271.0 L350.5,282.8 M354.5,287.1 L349.2,297.6 M354.5,303.2 L348.3,312.3 M354.5,319.3    L347.9,327.0 M354.5,335.4 L347.8,342.0 M354.5,351.5 L347.9,357.0 M354.5,367.6 L348.1,372.3 M354.5,383.7    L348.3,387.7 M354.5,399.8 L348.6,403.2 M354.5,415.9 L348.9,418.9 M354.5,431.9 L349.2,434.6 M371.0,45.8    L376.0,48.6 M371.0,61.8 L376.2,65.1 M371.0,77.9 L376.4,81.6 M371.0,94.0 L376.6,98.3 M371.0,110.1    L376.7,115.0 M371.0,126.2 L376.8,131.8 M371.0,142.3 L376.7,148.8 M371.0,158.4 L376.5,165.8 M371.0,174.5    L376.0,183.0 M371.0,190.6 L375.2,200.1 M371.0,206.7 L374.1,217.1 M371.0,222.8 L372.6,233.8 M371.0,238.9    L371.0,250.1 M371.0,254.9 L369.4,266.0 M371.0,271.0 L368.0,281.4 M371.0,287.1 L366.9,296.6 M371.0,303.2    L366.1,311.7 M371.0,319.3 L365.6,326.7 M371.0,335.4 L365.3,341.9 M371.0,351.5 L365.3,357.1 M371.0,367.6    L365.3,372.5 M371.0,383.7 L365.4,387.9 M371.0,399.8 L365.6,403.5 M371.0,415.9 L365.8,419.1 M371.0,431.9    L366.0,434.8 M387.5,45.8 L392.2,48.8 M387.5,61.8 L392.3,65.2 M387.5,77.9 L392.4,81.8 M387.5,94.0    L392.5,98.4 M387.5,110.1 L392.6,115.0 M387.5,126.2 L392.5,131.8 M387.5,142.3 L392.4,148.6 M387.5,158.4    L392.0,165.5 M387.5,174.5 L391.5,182.3 M387.5,190.6 L390.8,199.2 M387.5,206.7 L389.9,215.9 M387.5,222.8    L388.8,232.4 M387.5,238.9 L387.5,248.7 M387.5,254.9 L386.3,264.6 M387.5,271.0 L385.1,280.3 M387.5,287.1    L384.2,295.7 M387.5,303.2 L383.5,311.1 M387.5,319.3 L383.0,326.4 M387.5,335.4 L382.7,341.7 M387.5,351.5    L382.5,357.1 M387.5,367.6 L382.5,372.5 M387.5,383.7 L382.5,388.0 M387.5,399.8 L382.6,403.6 M387.5,415.9    L382.7,419.3  h0.01"
+           id="path1525" />
+        <path
+           stroke="rgb(  0,   0, 255)"
+           d="M387.5,431.9 L382.9,435.0 M404.0,45.8 L408.3,48.9 M404.0,61.8 L408.4,65.4 M404.0,77.9 L408.5,81.8    M404.0,94.0 L408.5,98.4 M404.0,110.1 L408.5,115.0 M404.0,126.2 L408.4,131.7 M404.0,142.3 L408.1,148.4    M404.0,158.4 L407.8,165.1 M404.0,174.5 L407.3,181.8 M404.0,190.6 L406.7,198.4 M404.0,206.7 L405.9,215.0    M404.0,222.8 L405.0,231.4 M404.0,238.9 L404.0,247.6 M404.0,254.9 L403.0,263.6 M404.0,271.0 L402.1,279.4    M404.0,287.1 L401.3,295.0 M404.0,303.2 L400.7,310.5 M404.0,319.3 L400.2,326.0 M404.0,335.4 L399.9,341.4    M404.0,351.5 L399.7,356.9 M404.0,367.6 L399.6,372.5 M404.0,383.7 L399.5,388.0 M404.0,399.8 L399.6,403.7    M404.0,415.9 L399.6,419.4 M404.0,431.9 L399.7,435.1 M420.5,45.8 L424.5,49.0 M420.5,61.8 L424.5,65.4    M420.5,77.9 L424.5,81.9 M420.5,94.0 L424.5,98.4 M420.5,110.1 L424.4,114.9 M420.5,126.2 L424.3,131.5    M420.5,142.3 L424.1,148.1 M420.5,158.4 L423.7,164.7 M420.5,174.5 L423.3,181.3 M420.5,190.6 L422.7,197.8    M420.5,206.7 L422.1,214.2 M420.5,222.8 L421.3,230.5 M420.5,238.9 L420.5,246.7 M420.5,254.9 L419.7,262.7    M420.5,271.0 L419.0,278.6 M420.5,287.1 L418.3,294.3 M420.5,303.2 L417.7,310.0 M420.5,319.3 L417.3,325.6    M420.5,335.4 L417.0,341.2 M420.5,351.5 L416.7,356.8 M420.5,367.6 L416.6,372.4 M420.5,383.7 L416.5,388.0    M420.5,399.8 L416.5,403.7 M420.5,415.9 L416.5,419.4 M420.5,431.9 L416.5,435.2 M437.0,45.8 L440.7,49.0    M437.0,61.8 L440.7,65.4 M437.0,77.9 L440.7,81.9 M437.0,94.0 L440.6,98.3 M437.0,110.1 L440.5,114.8    M437.0,126.2 L440.3,131.3 M437.0,142.3 L440.1,147.8 M437.0,158.4 L439.8,164.3 M437.0,174.5 L439.4,180.8    M437.0,190.6 L438.9,197.2 M437.0,206.7 L438.3,213.6 M437.0,222.8 L437.7,229.8 M437.0,238.9 L437.0,246.0    M437.0,254.9 L436.3,262.0 M437.0,271.0 L435.7,278.0 M437.0,287.1 L435.1,293.8 M437.0,303.2 L434.7,309.5    M437.0,319.3 L434.2,325.2 M437.0,335.4 L433.9,340.9 M437.0,351.5 L433.7,356.6 M437.0,367.6 L433.5,372.3    M437.0,383.7 L433.4,388.0 M437.0,399.8 L433.4,403.7 M437.0,415.9 L433.3,419.4 M437.0,431.9 L433.4,435.2    M453.5,45.8 L456.9,49.0 M453.5,61.8 L456.8,65.4 M453.5,77.9 L456.8,81.8 M453.5,94.0 L456.7,98.2    M453.5,110.1 L456.6,114.7 M453.5,126.2 L456.4,131.1 M453.5,142.3 L456.2,147.5 M453.5,158.4 L455.9,164.0    M453.5,174.5 L455.5,180.4 M453.5,190.6 L455.1,196.7 M453.5,206.7 L454.6,213.0 M453.5,222.8 L454.1,229.3    M453.5,238.9 L453.5,245.4 M453.5,254.9 L452.9,261.4 M453.5,271.0 L452.4,277.4 M453.5,287.1 L451.9,293.3    M453.5,303.2 L451.5,309.1 M453.5,319.3 L451.1,324.9 M453.5,335.4 L450.8,340.6 M453.5,351.5 L450.6,356.4    M453.5,367.6 L450.4,372.1 M453.5,383.7 L450.3,387.9 M453.5,399.8 L450.2,403.6 M453.5,415.9 L450.2,419.4    M453.5,431.9 L450.1,435.2  h0.01"
+           id="path1527" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_27a">
+      <title
+         id="title1530">gnuplot_plot_27a</title>
+      <g
+         style="fill:none; color:red; stroke:currentColor; stroke-width:1.50; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g1532">
+        <path
+           stroke="rgb(  0,   0, 255)"
+           d="M60.1,42.9 L61.0,42.5 L60.5,43.4 M60.0,58.8 L60.9,58.3 L60.5,59.2 M60.0,74.6 L60.9,74.1    L60.5,75.1 M59.9,90.5 L60.8,89.8 L60.5,90.9 M59.8,106.3 L60.7,105.6 L60.4,106.7 M59.6,122.1    L60.5,121.3 L60.3,122.5 M59.4,137.9 L60.3,137.1 L60.1,138.3 M59.1,153.8 L60.0,152.8 L59.9,154.1    M58.8,169.6 L59.6,168.6 L59.6,169.9 M58.4,185.5 L59.2,184.4 L59.3,185.7 M58.0,201.5 L58.7,200.3    L58.9,201.6 M57.6,217.5 L58.2,216.3 L58.5,217.6 M57.1,233.6 L57.6,232.3 L58.0,233.6 M56.7,249.8    L57.0,248.4 L57.6,249.7 M56.3,266.0 L56.5,264.7 L57.2,265.9 M55.9,282.3 L56.0,281.0 L56.8,282.1    M55.6,298.6 L55.6,297.3 L56.4,298.4 M55.3,315.0 L55.2,313.7 L56.1,314.7 M55.1,331.4 L54.9,330.2    L55.8,331.0 M54.9,347.8 L54.7,346.6 L55.6,347.4 M54.8,364.2 L54.5,363.0 L55.4,363.7 M54.7,380.5    L54.4,379.5 L55.3,380.1 M54.7,396.9 L54.3,395.9 L55.2,396.5 M54.7,413.2 L54.3,412.3 L55.2,412.8    M54.7,429.5 L54.2,428.7 L55.1,429.1 M76.8,42.9 L77.7,42.5 L77.2,43.4 M76.8,58.7 L77.8,58.3    L77.3,59.2 M76.7,74.6 L77.7,74.0 L77.3,75.0 M76.7,90.4 L77.7,89.7 L77.3,90.8 M76.6,106.2    L77.6,105.4 L77.2,106.6 M76.4,121.9 L77.4,121.1 L77.1,122.4 M76.2,137.7 L77.2,136.8 L76.9,138.1    M75.9,153.5 L76.9,152.5 L76.7,153.8 M75.5,169.3 L76.4,168.2 L76.4,169.6 M75.1,185.1 L76.0,183.9    L76.0,185.4 M74.7,201.0 L75.4,199.7 L75.6,201.2 M74.1,217.0 L74.8,215.7 L75.1,217.1 M73.6,233.1    L74.1,231.7 L74.6,233.1 M73.1,249.3 L73.4,247.9 L74.0,249.2 M72.6,265.6 L72.8,264.1 L73.5,265.4    M72.2,281.9 L72.2,280.5 L73.1,281.7 M71.8,298.3 L71.7,296.9 L72.6,298.0 M71.5,314.7 L71.3,313.4    L72.3,314.4 M71.3,331.2 L71.0,329.9 L72.0,330.8 M71.1,347.6 L70.8,346.4 L71.8,347.2 M71.0,364.1    L70.6,362.9 L71.6,363.6 M70.9,380.5 L70.5,379.4 L71.5,380.0 M70.9,396.9 L70.4,395.8 L71.4,396.4    M70.9,413.2 L70.4,412.3 L71.4,412.8 M70.9,429.6 L70.4,428.7 L71.4,429.1 M93.5,42.9 L94.6,42.5    L94.0,43.4 M93.6,58.7 L94.6,58.3 L94.0,59.3 M93.5,74.5 L94.6,74.0 L94.1,75.1 M93.5,90.3    L94.6,89.7 L94.1,90.8 M93.4,106.0 L94.5,105.3 L94.1,106.5 M93.3,121.7 L94.4,120.9 L94.0,122.2    M93.0,137.4 L94.1,136.5 L93.8,137.9 M92.7,153.2 L93.8,152.1 L93.6,153.6 M92.4,168.9 L93.4,167.7    L93.3,169.2 M91.9,184.7 L92.8,183.4 L92.9,184.9 M91.3,200.5 L92.1,199.1 L92.3,200.7 M90.7,216.5    L91.4,215.0 L91.8,216.6 M90.1,232.6 L90.6,231.0 L91.1,232.6 M89.4,248.8 L89.8,247.2 L90.5,248.7    M88.8,265.1 L89.0,263.5 L89.9,264.9 M88.3,281.5 L88.4,279.9 L89.3,281.2 M87.9,298.0 L87.8,296.4    L88.8,297.6 M87.6,314.5 L87.4,313.0 L88.4,314.1 M87.3,331.0 L87.0,329.6 L88.1,330.5 M87.2,347.5    L86.8,346.2 L87.9,347.0 M87.1,364.0 L86.7,362.8 L87.8,363.5 M87.1,380.5 L86.6,379.3 L87.7,379.9    M87.1,396.9 L86.6,395.8 L87.6,396.4 M87.1,413.3 L86.6,412.3 L87.6,412.7 M87.2,429.6 L86.6,428.7    L87.6,429.1 M110.3,43.0 L111.4,42.6 L110.7,43.5 M110.4,58.8 L111.5,58.3 L110.8,59.3 M110.4,74.5    L111.5,74.0 L110.9,75.1 M110.4,90.2 L111.6,89.7 L111.0,90.8 M110.3,105.9 L111.5,105.2 L111.0,106.5    M110.2,121.6 L111.4,120.8 L110.9,122.1 M110.0,137.2 L111.2,136.3 L110.8,137.7 M109.7,152.8 L110.9,151.7    L110.6,153.3 M109.2,168.4 L110.4,167.2 L110.2,168.9 M108.7,184.1 L109.8,182.7 L109.8,184.5 M108.0,199.9    L109.0,198.3 L109.2,200.1 M107.3,215.8 L108.1,214.1 L108.5,215.9 M106.5,231.9 L107.1,230.1 L107.7,231.9    M105.7,248.1 L106.1,246.3 L106.9,248.0 M105.0,264.5 L105.2,262.7 L106.1,264.2 M104.4,281.0 L104.4,279.3    L105.5,280.7 M103.9,297.6 L103.8,295.9 L104.9,297.2 M103.6,314.2 L103.3,312.6 L104.5,313.7 M103.4,330.8    L103.0,329.3 L104.2,330.3 M103.2,347.4 L102.7,346.0 L104.0,346.9 M103.2,364.0 L102.6,362.7 L103.9,363.4    M103.2,380.5 L102.6,379.3 L103.8,379.9 M103.3,396.9 L102.6,395.9 L103.8,396.3 M103.3,413.3 L102.7,412.3    L103.8,412.8 M103.4,429.7 L102.8,428.8 L103.9,429.1 M127.1,43.0 L128.2,42.7 L127.5,43.6 M127.2,58.8    L128.4,58.4 L127.6,59.4 M127.3,74.5 L128.5,74.1 L127.8,75.2 M127.3,90.2 L128.6,89.7 L127.9,90.9    M127.3,105.9 L128.6,105.2 L127.9,106.5 M127.2,121.4 L128.6,120.6 L128.0,122.1 M127.0,137.0 L128.4,136.0    L127.9,137.6 M126.7,152.4 L128.1,151.3 L127.7,153.0 M126.3,167.9 L127.6,166.6 L127.3,168.5 M125.6,183.5    L126.9,182.0 L126.8,183.9 M124.8,199.1 L126.0,197.4 L126.1,199.4 M123.9,214.9 L124.8,213.1 L125.2,215.1    M122.9,231.0 L123.6,229.0 L124.3,231.0 M121.9,247.3 L122.3,245.3 L123.3,247.1 M121.1,263.8 L121.2,261.8    L122.3,263.5 M120.3,280.4 L120.3,278.5 L121.5,280.0 M119.8,297.2 L119.6,295.4 L120.9,296.7 M119.5,313.9    L119.1,312.2 L120.4,313.4 M119.3,330.7 L118.7,329.1 L120.1,330.0 M119.2,347.4 L118.6,345.9 L120.0,346.7    M119.2,364.0 L118.5,362.7 L119.9,363.3 M119.3,380.5 L118.6,379.3 L119.9,379.9 M119.4,397.0 L118.7,395.9    L119.9,396.4 M119.5,413.4 L118.8,412.5 L120.0,412.8 M119.7,429.8 L118.9,428.9 L120.1,429.2 M143.9,43.1    L145.1,42.9 L144.3,43.8 M144.0,58.9 L145.3,58.6 L144.5,59.6 M144.2,74.6 L145.5,74.2 L144.7,75.3    M144.3,90.3 L145.7,89.8 L144.8,91.0 M144.3,105.9 L145.8,105.2 L145.0,106.6 M144.3,121.3 L145.8,120.6    L145.1,122.1 M144.2,136.8 L145.8,135.8 L145.1,137.5 M143.9,152.1 L145.5,151.0 L144.9,152.8 M143.5,167.4    L145.0,166.0 L144.6,168.0 M142.8,182.7 L144.2,181.1 L144.1,183.3 M141.8,198.2 L143.1,196.3 L143.2,198.6    M140.6,213.8 L141.7,211.7 L142.1,214.1 M139.3,229.9 L140.1,227.6 L140.8,229.9 M138.0,246.2 L138.5,243.9    L139.5,246.0 M136.9,262.9 L137.0,260.6 L138.4,262.5 M136.1,279.8 L135.9,277.6 L137.4,279.3 M135.5,296.8    L135.1,294.7 L136.7,296.1 M135.2,313.7 L134.6,311.9 L136.2,313.0 M135.1,330.6 L134.4,328.9 L136.0,329.8    M135.1,347.4 L134.3,345.9 L135.9,346.6 M135.2,364.1 L134.4,362.7 L135.8,363.3 M135.3,380.6 L134.5,379.4    L135.9,379.9 M135.5,397.2 L134.7,396.1 L136.0,396.5 M135.7,413.6 L134.9,412.6 L136.1,412.9 M135.9,430.0    L135.1,429.1 L136.3,429.3 M160.7,43.3 L161.9,43.1 L161.1,44.0 M160.9,59.1 L162.2,58.8 L161.3,59.8    M161.1,74.8 L162.5,74.5 L161.6,75.5 M161.3,90.4 L162.8,90.0 L161.8,91.2 M161.4,105.9 L163.0,105.4    L162.1,106.8 M161.5,121.3 L163.2,120.7 L162.3,122.2 M161.5,136.6 L163.3,135.7 L162.4,137.5 M161.3,151.8    L163.2,150.7 L162.4,152.6 M160.9,166.8 L162.8,165.4 L162.2,167.6 M160.2,181.8 L161.9,180.1 L161.6,182.5    M159.0,197.0 L160.6,194.9 L160.6,197.5 M157.4,212.4 L158.8,210.0 L159.2,212.7 M155.7,228.4 L156.6,225.7    L157.5,228.4 M154.0,244.9 L154.4,242.2 L155.7,244.6 M152.5,261.9 L152.5,259.2 L154.2,261.3 M151.6,279.1    L151.2,276.6 L153.0,278.4 M151.0,296.4 L150.4,294.1 L152.2,295.6 M150.8,313.5 L150.0,311.6 L151.8,312.7    M150.8,330.6 L149.9,328.8 L151.6,329.7 M150.9,347.5 L149.9,345.9 L151.6,346.6 M151.1,364.2 L150.1,362.9    L151.7,363.4  h0.01"
+           id="path1534" />
+        <path
+           stroke="rgb(  0,   0, 255)"
+           d="M151.3,380.8 L150.4,379.6 L151.9,380.0 M151.6,397.4 L150.6,396.3 L152.1,396.6 M151.8,413.8 L150.9,412.8    L152.3,413.1 M152.1,430.2 L151.2,429.3 L152.5,429.5 M177.5,43.5 L178.8,43.4 L177.8,44.3 M177.7,59.3    L179.1,59.2 L178.1,60.1 M178.0,75.0 L179.5,74.8 L178.4,75.8 M178.3,90.6 L179.9,90.3 L178.8,91.5    M178.6,106.1 L180.3,105.7 L179.2,107.1 M178.8,121.5 L180.7,120.9 L179.5,122.5 M179.0,136.6 L181.0,135.9    L179.9,137.7 M179.0,151.6 L181.1,150.5 L180.1,152.6 M178.7,166.3 L180.9,164.9 L180.0,167.3 M178.0,180.9    L180.2,179.0 L179.6,181.8 M176.6,195.5 L178.6,193.1 L178.4,196.2 M174.5,210.5 L176.2,207.6 L176.6,210.9    M172.0,226.3 L173.1,223.1 L174.1,226.3 M169.6,243.0 L170.0,239.8 L171.6,242.6 M167.7,260.5 L167.5,257.5    L169.5,259.8 M166.6,278.3 L166.0,275.6 L168.2,277.4 M166.1,296.1 L165.2,293.6 L167.4,295.0 M166.1,313.5    L165.0,311.4 L167.2,312.5 M166.3,330.8 L165.1,329.0 L167.2,329.7 M166.6,347.7 L165.4,346.2 L167.3,346.7    M167.0,364.5 L165.8,363.2 L167.6,363.6 M167.3,381.1 L166.2,380.0 L167.8,380.3 M167.7,397.7 L166.6,396.6    L168.1,396.8 M168.0,414.1 L167.0,413.2 L168.4,413.3 M168.3,430.5 L167.3,429.6 L168.6,429.7 M194.3,43.8    L195.6,43.8 L194.5,44.6 M194.6,59.6 L196.0,59.5 L194.9,60.4 M194.9,75.3 L196.5,75.2 L195.3,76.2    M195.3,90.9 L197.0,90.8 L195.8,91.9 M195.7,106.4 L197.6,106.2 L196.3,107.5 M196.2,121.8 L198.2,121.4    L196.8,122.9 M196.6,136.9 L198.9,136.3 L197.4,138.1 M196.9,151.6 L199.4,150.7 L198.0,152.9 M197.0,166.0    L199.6,164.7 L198.3,167.3 M196.4,179.9 L199.2,178.0 L198.2,181.1 M194.9,193.6 L197.6,190.9 L197.1,194.6    M192.1,207.6 L194.3,204.3 L194.6,208.3 M188.2,223.1 L189.6,219.2 L190.9,223.1 M184.5,240.4 L184.8,236.4    L187.0,239.8 M182.0,259.0 L181.5,255.3 L184.2,257.9 M181.0,277.7 L179.9,274.5 L182.7,276.4 M180.8,296.0    L179.5,293.4 L182.2,294.7 M181.2,313.8 L179.7,311.6 L182.2,312.5 M181.7,331.2 L180.3,329.3 L182.5,330.0    M182.3,348.2 L180.9,346.6 L183.0,347.1 M182.8,365.0 L181.5,363.6 L183.4,363.9 M183.4,381.6 L182.1,380.4    L183.8,380.6 M183.8,398.0 L182.6,397.1 L184.2,397.1 M184.2,414.4 L183.1,413.6 L184.5,413.6 M184.6,430.8    L183.5,430.0 L184.9,430.0 M211.0,44.1 L212.4,44.2 L211.2,44.9 M211.4,60.0 L212.9,60.0 L211.6,60.8    M211.8,75.7 L213.5,75.8 L212.1,76.7 M212.3,91.4 L214.1,91.4 L212.7,92.5 M212.9,107.0 L214.9,106.9    L213.4,108.1 M213.6,122.3 L215.8,122.1 L214.1,123.6 M214.3,137.4 L216.8,137.1 L215.0,138.8 M215.1,152.1    L217.9,151.5 L216.0,153.6 M215.7,166.1 L219.0,165.0 L217.0,167.8 M215.9,179.2 L219.5,177.5 L217.7,181.0    M214.7,191.3 L218.5,188.5 L217.2,193.0 M210.9,203.4 L214.1,199.2 L214.1,204.4 M204.3,217.9 L206.1,212.6    L207.9,217.9 M198.0,236.6 L198.0,231.3 L201.2,235.5 M194.9,257.3 L193.7,252.9 L197.4,255.7 M194.4,277.5    L192.6,274.0 L196.2,275.8 M195.1,296.5 L193.2,293.8 L196.4,294.8 M196.1,314.5 L194.2,312.4 L197.1,313.0    M197.1,331.9 L195.3,330.2 L197.8,330.5 M198.0,348.9 L196.3,347.4 L198.6,347.6 M198.8,365.6 L197.2,364.3    L199.2,364.4 M199.4,382.1 L198.0,381.0 L199.8,381.0 M200.0,398.5 L198.7,397.6 L200.3,397.6 M200.5,414.8    L199.2,414.0 L200.7,414.0 M200.9,431.1 L199.7,430.4 L201.1,430.3 M227.7,44.5 L229.1,44.7 L227.9,45.3    M228.1,60.4 L229.7,60.6 L228.3,61.3 M228.7,76.2 L230.3,76.4 L228.9,77.2 M229.3,92.0 L231.1,92.2    L229.5,93.1 M230.0,107.7 L232.0,107.8 L230.3,108.9 M230.9,123.1 L233.2,123.2 L231.3,124.5 M232.0,138.4    L234.7,138.4 L232.5,139.9 M233.3,153.2 L236.5,153.0 L234.0,155.0 M234.9,167.1 L238.7,166.6 L236.0,169.2    M236.6,179.7 L241.2,178.5 L238.3,182.1 M237.3,189.6 L242.7,187.0 L240.0,192.2 M222.6,222.8 M222.6,238.9    M222.6,254.9 M205.1,256.6 L202.4,251.4 L207.8,254.0 M206.8,278.7 L204.0,275.0 L208.5,276.2 M209.1,298.0    L206.4,295.4 L210.2,295.9 M211.1,315.9 L208.7,313.9 L211.8,314.1 M212.6,333.0 L210.5,331.5 L213.2,331.5    M213.8,349.8 L211.9,348.5 L214.2,348.4 M214.8,366.3 L213.1,365.3 L215.1,365.1 M215.6,382.7 L214.0,381.8    L215.9,381.6 M216.3,399.1 L214.8,398.3 L216.5,398.0 M216.8,415.3 L215.5,414.6 L217.0,414.4 M217.3,431.5    L216.0,430.9 L217.4,430.7 M244.4,44.9 L245.7,45.2 L244.4,45.8 M244.8,60.9 L246.3,61.2 L244.9,61.8    M245.4,76.8 L247.0,77.2 L245.5,77.8 M246.1,92.7 L247.9,93.1 L246.2,93.8 M246.9,108.5 L249.0,108.9    L247.1,109.8 M248.0,124.2 L250.3,124.6 L248.2,125.7 M249.4,139.8 L252.1,140.2 L249.7,141.5 M251.3,155.0    L254.6,155.4 L251.7,157.0 M253.9,169.6 L258.0,169.9 L254.5,172.0 M257.9,182.7 L263.2,182.7 L258.9,185.9    M239.1,206.7 M239.1,222.8 M239.1,238.9 M239.1,254.9 M239.1,271.0 M219.2,282.4 L214.9,279.3 L220.2,279.3    M223.6,300.7 L220.1,298.6 L224.2,298.3 M226.4,317.9 L223.5,316.3 L226.9,315.9 M228.4,334.5 L226.0,333.3    L228.7,332.8 M229.9,351.0 L227.8,349.9 L230.1,349.5 M231.0,367.3 L229.1,366.4 L231.2,366.0 M231.9,383.5    L230.2,382.7 L232.0,382.3 M232.6,399.7 L231.1,399.0 L232.7,398.6 M233.2,415.8 L231.8,415.2 L233.3,414.9    M233.7,431.9 L232.4,431.4 L233.8,431.1 M260.9,45.3 L262.3,45.8 L260.9,46.2 M261.4,61.4 L262.9,61.8    L261.4,62.3 M262.0,77.4 L263.6,77.9 L262.0,78.5 M262.7,93.4 L264.5,94.0 L262.7,94.6 M263.6,109.5    L265.6,110.1 L263.6,110.8 M264.8,125.5 L267.1,126.2 L264.8,127.0 M266.3,141.4 L269.0,142.3 L266.3,143.2    M268.4,157.3 L271.7,158.4 L268.4,159.4 M271.7,173.2 L275.7,174.5 L271.7,175.8 M277.0,188.8 L282.4,190.6    L277.0,192.3 M255.6,206.7 M255.6,222.8 M255.6,238.9 M255.6,254.9 M255.6,271.0 M234.1,288.9 L228.7,287.1    L234.1,285.4 M239.4,304.5 L235.4,303.2 L239.4,301.9 M242.7,320.4 L239.4,319.3 L242.7,318.3 M244.8,336.3    L242.1,335.4 L244.8,334.5 M246.3,352.2 L244.0,351.5 L246.3,350.7 M247.5,368.2 L245.5,367.6 L247.5,366.9    M248.4,384.3 L246.6,383.7 L248.4,383.1 M249.1,400.3 L247.5,399.8 L249.1,399.2 M249.7,416.3 L248.2,415.9    L249.7,415.4 M250.2,432.4 L248.8,431.9 L250.2,431.5 M277.4,45.8 L278.7,46.3 L277.3,46.6 M277.9,61.9    L279.3,62.5 L277.8,62.8 M278.5,78.0 L280.0,78.7 L278.4,79.1 M279.2,94.2 L280.9,95.0 L279.1,95.4    M280.1,110.4 L282.0,111.3 L279.9,111.7 M281.2,126.7 L283.3,127.8 L281.0,128.2 M282.7,143.2 L285.1,144.4    L282.4,144.9 M284.7,159.8 L287.6,161.4 L284.2,161.8 M287.5,177.0 L291.0,179.1 L286.9,179.4 M291.9,195.3    L296.2,198.4 L290.9,198.4 M272.0,206.7 M272.0,222.8 M272.0,238.9 M272.0,254.9 M272.0,271.0 M253.2,295.0    L247.9,295.0 L252.2,291.8 M257.2,308.1 L253.1,307.8 L256.6,305.7 M259.8,322.7 L256.5,322.3 L259.4,320.7    M261.7,337.9 L259.0,337.5 L261.4,336.2 M263.1,353.5 L260.8,353.1 L262.9,352.0 M264.2,369.2 L262.1,368.8    L264.0,367.9 M265.0,385.0 L263.2,384.6 L264.9,383.9 M265.7,400.9 L264.1,400.5 L265.6,399.9 M266.3,416.8    L264.8,416.5 L266.2,415.9 M266.7,432.8 L265.4,432.5 L266.7,431.9 M293.8,46.2 L295.1,46.8 L293.7,47.0    M294.3,62.4 L295.6,63.1 L294.1,63.3 M294.8,78.6 L296.3,79.4 L294.6,79.7 M295.5,95.0 L297.1,95.9    L295.2,96.1  h0.01"
+           id="path1536" />
+        <path
+           stroke="rgb(  0,   0, 255)"
+           d="M296.3,111.4 L298.0,112.4 L296.0,112.6 M297.3,127.9 L299.2,129.2 L296.9,129.3 M298.5,144.7 L300.6,146.2    L297.9,146.2 M300.0,161.8 L302.4,163.8 L299.3,163.6 M302.0,179.7 L304.7,182.3 L300.9,181.8 M304.3,199.0    L307.1,202.7 L302.6,201.5 M306.0,221.1 L308.7,226.3 L303.3,223.7 M288.5,222.8 M288.5,238.9 M288.5,254.9    M273.8,288.1 L268.4,290.7 L271.1,285.5 M274.5,298.0 L269.9,299.2 L272.8,295.6 M276.2,310.6 L272.4,311.1    L275.1,308.5 M277.8,324.5 L274.6,324.7 L277.1,322.7 M279.1,339.3 L276.4,339.3 L278.6,337.8 M280.2,354.6    L277.9,354.5 L279.8,353.2 M281.1,370.0 L279.1,369.9 L280.8,368.8 M281.8,385.7 L280.0,385.5 L281.6,384.6    M282.4,401.5 L280.8,401.3 L282.2,400.5 M283.0,417.3 L281.4,417.1 L282.8,416.4 M283.4,433.2 L282.0,433.0    L283.2,432.4 M310.2,46.6 L311.4,47.3 L310.0,47.4 M310.6,62.9 L311.9,63.7 L310.4,63.7 M311.1,79.2    L312.4,80.1 L310.8,80.1 M311.7,95.6 L313.1,96.7 L311.3,96.7 M312.3,112.1 L313.9,113.4 L311.9,113.3    M313.1,128.8 L314.8,130.3 L312.5,130.1 M314.0,145.8 L315.8,147.5 L313.3,147.2 M315.0,163.2 L316.9,165.3    L314.0,164.7 M316.0,181.2 L317.9,183.9 L314.7,182.9 M316.7,200.2 L318.5,203.7 L314.9,201.9 M316.2,220.4    L317.4,224.8 L313.7,222.0 M313.1,241.1 L313.1,246.4 L309.9,242.2 M306.8,259.8 L305.0,265.1 L303.2,259.8    M300.2,274.3 L297.0,278.5 L297.0,273.3 M296.4,286.4 L292.6,289.2 L293.9,284.7 M295.2,298.5 L291.6,300.2    L293.4,296.7 M295.4,311.6 L292.1,312.7 L294.1,309.9 M296.0,325.6 L293.2,326.2 L295.1,324.1 M296.8,340.3    L294.3,340.6 L296.1,338.9 M297.5,355.4 L295.3,355.6 L297.0,354.1 M298.2,370.7 L296.2,370.8 L297.7,369.6    M298.8,386.3 L297.0,386.3 L298.4,385.2 M299.3,402.0 L297.6,401.9 L299.0,401.0 M299.7,417.7 L298.2,417.7    L299.5,416.9 M300.1,433.6 L298.7,433.5 L299.9,432.8 M326.5,46.9 L327.6,47.7 L326.2,47.7 M326.9,63.3    L328.0,64.1 L326.6,64.1 M327.3,79.7 L328.5,80.6 L326.9,80.6 M327.7,96.1 L329.0,97.3 L327.3,97.1    M328.3,112.7 L329.6,114.1 L327.7,113.8 M328.8,129.5 L330.2,131.1 L328.1,130.6 M329.4,146.5 L330.8,148.4    L328.6,147.7 M329.9,163.9 L331.4,166.1 L328.9,165.2 M330.3,181.7 L331.6,184.3 L328.9,183.0 M330.1,200.0    L331.2,203.2 L328.4,201.3 M329.1,218.7 L329.6,222.4 L326.9,219.8 M326.6,237.3 L326.3,241.3 L324.1,237.9    M322.9,254.6 L321.5,258.5 L320.2,254.6 M319.0,270.1 L316.8,273.4 L316.5,269.4 M316.2,284.1 L313.5,286.8    L314.0,283.1 M314.7,297.8 L311.9,299.7 L312.9,296.6 M314.1,311.7 L311.5,313.0 L312.8,310.4 M314.2,326.1    L311.7,327.0 L313.1,324.8 M314.5,340.8 L312.2,341.4 L313.7,339.6 M314.9,355.9 L312.9,356.3 L314.3,354.8    M315.4,371.3 L313.5,371.5 L314.8,370.2 M315.8,386.8 L314.1,386.9 L315.3,385.8 M316.2,402.4 L314.6,402.5    L315.8,401.5 M316.5,418.1 L315.1,418.2 L316.2,417.3 M316.8,433.9 L315.5,433.9 L316.6,433.1 M342.8,47.2    L343.8,48.1 L342.5,48.0 M343.1,63.6 L344.1,64.5 L342.7,64.4 M343.4,80.0 L344.5,81.1 L343.0,80.9    M343.8,96.6 L344.9,97.7 L343.3,97.4 M344.1,113.2 L345.3,114.5 L343.5,114.1 M344.5,130.0 L345.7,131.5    L343.8,131.0 M344.8,146.9 L346.0,148.7 L343.9,148.0 M345.0,164.2 L346.1,166.3 L343.9,165.2 M345.0,181.6    L345.9,184.1 L343.7,182.7 M344.5,199.4 L345.1,202.1 L342.9,200.3 M343.4,217.2 L343.6,220.2 L341.6,217.9    M341.5,234.7 L341.1,237.9 L339.5,235.1 M339.1,251.4 L338.0,254.6 L337.0,251.4 M336.6,267.2 L334.9,270.1    L334.5,266.8 M334.5,282.2 L332.5,284.6 L332.7,281.5 M333.1,296.8 L330.9,298.7 L331.5,295.9 M332.4,311.4    L330.2,312.8 L331.1,310.4 M332.1,326.1 L330.0,327.2 L331.0,325.1 M332.1,341.1 L330.1,341.8 L331.2,340.0    M332.3,356.2 L330.4,356.8 L331.6,355.2 M332.5,371.6 L330.8,372.0 L331.9,370.6 M332.8,387.1 L331.2,387.4    L332.3,386.2 M333.1,402.7 L331.6,402.9 L332.7,401.9 M333.4,418.4 L332.0,418.5 L333.0,417.6 M333.6,434.2    L332.3,434.3 L333.3,433.4 M359.0,47.5 L359.9,48.4 L358.6,48.2 M359.3,63.9 L360.2,64.9 L358.8,64.6    M359.5,80.3 L360.5,81.4 L359.0,81.1 M359.8,96.9 L360.7,98.1 L359.2,97.7 M360.0,113.5 L361.0,114.8    L359.4,114.3 M360.2,130.2 L361.2,131.8 L359.5,131.1 M360.3,147.1 L361.2,148.9 L359.5,148.0 M360.3,164.2    L361.1,166.1 L359.3,165.0 M360.1,181.3 L360.7,183.6 L358.9,182.1 M359.5,198.6 L359.9,201.1 L358.1,199.3    M358.6,215.8 L358.6,218.5 L356.9,216.4 M357.1,232.8 L356.7,235.5 L355.4,233.1 M355.4,249.3 L354.5,252.0    L353.6,249.3 M353.7,265.3 L352.3,267.7 L351.9,265.0 M352.1,280.7 L350.5,282.8 L350.5,280.2 M350.9,295.9    L349.2,297.6 L349.5,295.2 M350.2,310.9 L348.3,312.3 L348.9,310.1 M349.8,325.9 L347.9,327.0 L348.7,325.1    M349.6,341.1 L347.8,342.0 L348.7,340.2 M349.6,356.4 L347.9,357.0 L348.8,355.5 M349.7,371.8 L348.1,372.3    L349.0,370.9 M349.8,387.3 L348.3,387.7 L349.3,386.5 M350.0,402.9 L348.6,403.2 L349.5,402.2 M350.2,418.6    L348.9,418.9 L349.8,417.9 M350.4,434.4 L349.2,434.6 L350.0,433.7 M375.2,47.7 L376.0,48.6 L374.8,48.4    M375.4,64.1 L376.2,65.1 L375.0,64.8 M375.6,80.5 L376.4,81.6 L375.1,81.2 M375.8,97.1 L376.6,98.3    L375.2,97.8 M375.9,113.6 L376.7,115.0 L375.3,114.4 M376.0,130.3 L376.8,131.8 L375.2,131.1 M376.0,147.1    L376.7,148.8 L375.1,147.9 M375.9,164.0 L376.5,165.8 L374.9,164.7 M375.6,180.9 L376.0,183.0 L374.4,181.6    M375.0,197.9 L375.2,200.1 L373.7,198.4 M374.2,214.8 L374.1,217.1 L372.7,215.2 M373.1,231.5 L372.6,233.8    L371.6,231.7 M371.8,247.8 L371.0,250.1 L370.3,247.8 M370.5,263.9 L369.4,266.0 L369.0,263.6 M369.3,279.5    L368.0,281.4 L367.9,279.1 M368.3,295.0 L366.9,296.6 L367.0,294.4 M367.6,310.3 L366.1,311.7 L366.5,309.7    M367.2,325.6 L365.6,326.7 L366.2,324.9 M366.9,340.9 L365.3,341.9 L366.0,340.2 M366.8,356.4 L365.3,357.1    L366.0,355.6 M366.8,371.8 L365.3,372.5 L366.1,371.1 M366.8,387.4 L365.4,387.9 L366.3,386.7 M366.9,403.1    L365.6,403.5 L366.4,402.4 M367.1,418.8 L365.8,419.1 L366.6,418.1 M367.2,434.6 L366.0,434.8 L366.8,433.9    M391.4,47.9 L392.2,48.8 L391.0,48.5 M391.6,64.3 L392.3,65.2 L391.1,64.9 M391.7,80.7 L392.4,81.8    L391.2,81.3 M391.8,97.2 L392.5,98.4 L391.2,97.8 M391.9,113.7 L392.6,115.0 L391.2,114.4 M391.9,130.3    L392.5,131.8 L391.1,131.0 M391.8,147.0 L392.4,148.6 L391.0,147.7 M391.6,163.8 L392.0,165.5 L390.7,164.3    M391.3,180.5 L391.5,182.3 L390.2,181.0 M390.8,197.3 L390.8,199.2 L389.6,197.7 M390.0,213.9 L389.9,215.9    L388.8,214.2 M389.2,230.4 L388.8,232.4 L387.8,230.6 M388.2,246.7 L387.5,248.7 L386.8,246.7 M387.2,262.8    L386.3,264.6 L385.9,262.6 M386.3,278.6 L385.1,280.3 L385.0,278.3 M385.5,294.2 L384.2,295.7 L384.3,293.8    M384.8,309.8 L383.5,311.1 L383.8,309.2 M384.4,325.3 L383.0,326.4 L383.4,324.7 M384.1,340.7 L382.7,341.7    L383.2,340.1 M383.9,356.3 L382.5,357.1 L383.1,355.6 M383.8,371.8 L382.5,372.5 L383.2,371.2 M383.8,387.5    L382.5,388.0 L383.2,386.8 M383.8,403.2 L382.6,403.6 L383.3,402.5 M383.9,418.9 L382.7,419.3 L383.5,418.3    M384.0,434.7 L382.9,435.0 L383.6,434.1 M407.7,48.0 L408.3,48.9 L407.2,48.6 M407.8,64.4 L408.4,65.4    L407.3,64.9  h0.01"
+           id="path1538" />
+        <path
+           stroke="rgb(  0,   0, 255)"
+           d="M407.8,80.8 L408.5,81.8 L407.3,81.4 M407.9,97.2 L408.5,98.4 L407.3,97.8 M407.9,113.7 L408.5,115.0    L407.2,114.3 M407.9,130.3 L408.4,131.7 L407.1,130.8 M407.7,146.9 L408.1,148.4 L406.9,147.4 M407.5,163.5    L407.8,165.1 L406.6,164.0 M407.2,180.1 L407.3,181.8 L406.2,180.5 M406.7,196.7 L406.7,198.4 L405.6,197.0    M406.1,213.2 L405.9,215.0 L405.0,213.5 M405.4,229.6 L405.0,231.4 L404.2,229.7 M404.6,245.8 L404.0,247.6    L403.4,245.8 M403.8,261.9 L403.0,263.6 L402.6,261.8 M403.1,277.8 L402.1,279.4 L401.9,277.6 M402.4,293.6    L401.3,295.0 L401.3,293.2 M401.9,309.3 L400.7,310.5 L400.9,308.8 M401.4,324.9 L400.2,326.0 L400.5,324.4    M401.1,340.5 L399.9,341.4 L400.3,340.0 M400.9,356.1 L399.7,356.9 L400.2,355.6 M400.8,371.8 L399.6,372.5    L400.1,371.2 M400.7,387.5 L399.5,388.0 L400.1,386.9 M400.7,403.2 L399.6,403.7 L400.2,402.6 M400.7,418.9    L399.6,419.4 L400.3,418.4 M400.8,434.7 L399.7,435.1 L400.4,434.2 M423.9,48.1 L424.5,49.0 L423.5,48.6    M424.0,64.4 L424.5,65.4 L423.5,65.0 M424.0,80.8 L424.5,81.9 L423.5,81.3 M424.0,97.2 L424.5,98.4    L423.4,97.8 M424.0,113.7 L424.4,114.9 L423.3,114.2 M423.9,130.2 L424.3,131.5 L423.2,130.7 M423.8,146.7    L424.1,148.1 L423.0,147.2 M423.5,163.2 L423.7,164.7 L422.7,163.6 M423.2,179.7 L423.3,181.3 L422.3,180.1    M422.8,196.2 L422.7,197.8 L421.8,196.5 M422.3,212.6 L422.1,214.2 L421.2,212.8 M421.7,228.9 L421.3,230.5    L420.6,229.0 M421.0,245.1 L420.5,246.7 L420.0,245.1 M420.4,261.2 L419.7,262.7 L419.3,261.1 M419.8,277.2    L419.0,278.6 L418.8,277.0 M419.2,293.0 L418.3,294.3 L418.2,292.8 M418.7,308.8 L417.7,310.0 L417.8,308.5    M418.4,324.5 L417.3,325.6 L417.5,324.1 M418.1,340.3 L417.0,341.2 L417.3,339.8 M417.8,356.0 L416.7,356.8    L417.1,355.5 M417.7,371.7 L416.6,372.4 L417.0,371.2 M417.6,387.4 L416.5,388.0 L417.0,386.9 M417.6,403.2    L416.5,403.7 L417.0,402.6 M417.5,419.0 L416.5,419.4 L417.1,418.4 M417.6,434.8 L416.5,435.2 L417.1,434.3    M440.2,48.1 L440.7,49.0 L439.7,48.6 M440.2,64.5 L440.7,65.4 L439.7,64.9 M440.2,80.8 L440.7,81.9    L439.7,81.3 M440.2,97.2 L440.6,98.3 L439.6,97.7 M440.1,113.6 L440.5,114.8 L439.5,114.1 M440.0,130.1    L440.3,131.3 L439.3,130.5 M439.8,146.5 L440.1,147.8 L439.1,146.9 M439.6,163.0 L439.8,164.3 L438.8,163.3    M439.3,179.4 L439.4,180.8 L438.5,179.7 M438.9,195.8 L438.9,197.2 L438.0,196.0 M438.5,212.1 L438.3,213.6    L437.6,212.3 M438.0,228.4 L437.7,229.8 L437.1,228.5 M437.5,244.6 L437.0,246.0 L436.5,244.6 M437.0,260.7    L436.3,262.0 L436.0,260.6 M436.4,276.7 L435.7,278.0 L435.5,276.5 M436.0,292.6 L435.1,293.8 L435.1,292.3    M435.6,308.4 L434.7,309.5 L434.7,308.1 M435.2,324.2 L434.2,325.2 L434.4,323.9 M434.9,340.0 L433.9,340.9    L434.2,339.6 M434.7,355.8 L433.7,356.6 L434.0,355.3 M434.5,371.5 L433.5,372.3 L433.9,371.1 M434.4,387.3    L433.4,388.0 L433.8,386.9 M434.4,403.1 L433.4,403.7 L433.8,402.7 M434.3,419.0 L433.3,419.4 L433.8,418.5    M434.3,434.8 L433.4,435.2 L433.9,434.3 M456.4,48.2 L456.9,49.0 L456.0,48.6 M456.4,64.5 L456.8,65.4    L455.9,64.9 M456.4,80.8 L456.8,81.8 L455.9,81.2 M456.4,97.2 L456.7,98.2 L455.8,97.6 M456.3,113.5    L456.6,114.7 L455.7,114.0 M456.2,129.9 L456.4,131.1 L455.5,130.3 M456.0,146.3 L456.2,147.5 L455.3,146.7    M455.8,162.7 L455.9,164.0 L455.0,163.0 M455.5,179.1 L455.5,180.4 L454.7,179.3 M455.2,195.4 L455.1,196.7    L454.3,195.6 M454.8,211.7 L454.6,213.0 L453.9,211.8 M454.4,227.9 L454.1,229.3 L453.5,228.0 M454.0,244.1    L453.5,245.4 L453.1,244.1 M453.5,260.2 L452.9,261.4 L452.6,260.1 M453.1,276.2 L452.4,277.4 L452.2,276.1    M452.7,292.2 L451.9,293.3 L451.8,292.0 M452.3,308.1 L451.5,309.1 L451.5,307.8 M452.0,323.9 L451.1,324.9    L451.2,323.6 M451.7,339.8 L450.8,340.6 L451.0,339.4 M451.5,355.6 L450.6,356.4 L450.8,355.2 M451.3,371.4    L450.4,372.1 L450.7,371.0 M451.2,387.2 L450.3,387.9 L450.6,386.8 M451.1,403.1 L450.2,403.6 L450.6,402.6    M451.1,418.9 L450.2,419.4 L450.6,418.5 M451.0,434.8 L450.1,435.2 L450.6,434.3  h0.01"
+           id="path1540" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_28a">
+      <title
+         id="title1543">gnuplot_plot_28a</title>
+      <g
+         style="color:#ffffff;fill:none;stroke:#0000ff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g1545" />
+      <g
+         style="color:#008000;fill:none;stroke:currentColor;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g1547">
+        <use
+           xlink:href="#gpPt6"
+           transform="matrix(35,0,0,35,255.6,238.9)"
+           id="use1549"
+           style="color:#ff0000"
+           x="0"
+           y="0"
+           width="480"
+           height="480" />
+      </g>
+    </g>
+    <g
+       style="fill:none; color:white; stroke:rgb(255,   0,   0); stroke-width:2.00; stroke-linecap:butt; stroke-linejoin:miter"
+       id="g1551" />
+    <g
+       style="fill:none; color:black; stroke:currentColor; stroke-width:2.00; stroke-linecap:butt; stroke-linejoin:miter"
+       id="g1553" />
+  </g>
+</svg>
